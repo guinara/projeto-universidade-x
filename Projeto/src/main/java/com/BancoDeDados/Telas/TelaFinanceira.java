@@ -1,6 +1,5 @@
 package com.BancoDeDados.Telas;
 
-import com.BancoDeDados.Model.Aluno.Aluno;
 import com.BancoDeDados.Model.Financeiro.Gasto;
 import com.BancoDeDados.Projeto.Tela;
 import com.BancoDeDados.jpa.JpaGasto;
